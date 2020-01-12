@@ -1,0 +1,6 @@
+C:\Users\cporter\source\repos\Dog_CNP\Dog_CNP\bin\Debug\Dog_CNP.exe.config
+C:\Users\cporter\source\repos\Dog_CNP\Dog_CNP\bin\Debug\Dog_CNP.exe
+C:\Users\cporter\source\repos\Dog_CNP\Dog_CNP\bin\Debug\Dog_CNP.pdb
+C:\Users\cporter\source\repos\Dog_CNP\Dog_CNP\obj\Debug\Dog_CNP.csprojAssemblyReference.cache
+C:\Users\cporter\source\repos\Dog_CNP\Dog_CNP\obj\Debug\Dog_CNP.exe
+C:\Users\cporter\source\repos\Dog_CNP\Dog_CNP\obj\Debug\Dog_CNP.pdb
